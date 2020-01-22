@@ -1,5 +1,7 @@
 # react-native-web-typescript-template
 
+Fork this repo and choose as template while creating new repo
+
 The template consist React Native and React Web with Typescript and Webpack.
 
 Usage
